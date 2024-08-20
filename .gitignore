@@ -1,0 +1,69 @@
+# Node.js related
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# Log files
+*.log
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# Build directories
+dist/
+build/
+
+# Cache and temporary files
+*.cache
+*.tmp
+*.swp
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Test coverage
+coverage/
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Miscellaneous
+*.bak
+*.lock
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# Ignore build output from Create React App
+/public/static/
+/public/env-config.js
+
+# Mac OS metadata
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# Linux Trash folder
+.Trash-*
+
+# Ignore linting cache
+.eslintcache
+
+# Ignore storybook static files
+out/
+storybook-static/
